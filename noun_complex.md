@@ -26,18 +26,17 @@ Class III nouns are those which end in /e/ or any clustered sound -- a consonant
 
 In the accusative case, the final consonant sound is strengthened (if possible), and if the word does not end in a vowel /-o/ is added to the end of the word. From the examples above:
 
-```
-Base Word   | Nom. Sing. | Acc. Sing. |
-kil         | kil        | kito       |
-seler       | seler      | seledo     |
-toron       | toron      | torono     |
-nana        | nan        | nana       |
-kallo       | kall       | kalto      |
-arda        | ard        | arda       |
-huo         | huong      | kuo        |
-are         | aren       | ade        |
-lempe       | lempem     | lembe      |
-```
+| Base Word   | Nom. Sing. | Acc. Sing. |
+|:------------|:-----------|:-----------|
+| kil         | kil        | kito       |
+| seler       | seler      | seledo     |
+| toron       | toron      | torono     |
+| nana        | nan        | nana       |
+| kallo       | kall       | kalto      |
+| arda        | ard        | arda       |
+| huo         | huong      | kuo        |
+| are         | aren       | ade        |
+| lempe       | lempem     | lembe      |
 
 Normally, the strengthening process will result in voiceless consonants beoming their voiced counterpart, however /r/ becomes /d/, /l/ becomes /t/, and /h/ becomes /k/. Likewise, voiced fricatives will move up to a stronger manner of articulation -- /v/ becomes /b/, /dh/ and /z/ both become /d/, etc.
 
@@ -76,7 +75,9 @@ lempe       | lempem | nelemp  || lembe  | erlemp |
 
 ## Articles
 
-Proto-Atrusian has three articles -- the definite and indefinite are familiar to most English speakers, but the third article is a conjunct article, meaning that it refers to a sequence of things as one.
+Proto-Atrusian has three articles -- the definite and indefinite are likely familiar to most English speakers, but the third article is a conjunct article, meaning that it refers to a sequence of things as one.
+
+Articles do not inflect for number, only case.
 
 ### Definite
 
@@ -98,8 +99,53 @@ The conjunct article is /er/ in the nominative and /der/ in the accusative. The 
 
 ### Article Table
 
+```
 Article     | Nominative || Accusative |
 ========================================
 DEFINITE    | il         || ilo        |
 INDEFINITE  | e                        |
 CONJUNCT    | er         || der        |
+```
+
+## Alternative Cases
+
+While the primary cases in Proto-Atrusian are the nominative and accusative, there are other cases which pattern as nominative or accusative, but have their own suffixes.
+
+### Dative (Accusative)
+
+Within Proto-Atrusian, the Dative is used to refer to direct objects, and contrasts with the accusative which may be used for direct or indirect objects. It patterns as an accusative, and is used _only_ when there is more than one (non-conjunct) accusative.
+
+Datives take on the nasal nearest to the word coda, in class II they also take the stop nearest to that nasal.
+
+| DATIVES  | Class I  | Class II  | Class III |
+|:--------:|:--------:|:---------:|:---------:|
+| Singular | -\[N\]a  | -\[NS\]o  | -a\[N\]u  |
+| Plural   | -i\[N\]a | -re\[NS\] | -axum     |
+
+### Genitive N (Nominative)
+
+The first Genitive is used as the subject of a genitive relationship, in general this means the possessor, owner, or origin of something in a genitive relationship. When paired with a standard nominative noun, the _genitive n_ indicates an indirect subject referenced by relation to its reference.
+
+The _Genitive N_ replaces the normal marking of a nominative singular, if it has marking, with a suffix of **-(o)no**, and maintains the number marking. Plurals for class I and II retain their plural marking, and only add **-on** as a suffix. Class III plurals, preserve the prefix _ne-_, but still remove the final coda of the word.
+
+| GENITIVE N  | Class I | Class II | Class III |
+|:--------:|:----------:|:--------:|:---------:|
+| Singular | -ono       | -no      | -ono      |
+| Plural   | -ion       | -ron     | ne-\*-ono |
+
+```
+Base Word   | Genitive N             |
+            | Singular  | Plural     |
+======================================
+kil         | kilono    | kilion     |
+seler       | selerono  | selerion   |
+toron       | toronono  | toronion   |
+======================================
+nana        | nanano    | nanaron    |
+kallo       | kallono   | kalloron   |
+arda        | ardano    | ardaron    |
+======================================
+huo         | huo'ono   | nehu'ono   |
+are         | are'ono   | nearono    |
+lempe       | lempe'ono | nelempono  |
+```
