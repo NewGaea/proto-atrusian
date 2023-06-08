@@ -1,3 +1,5 @@
+# The Noun Complex
+
 Nouns in Proto-Atrusian inflect for nominative and accusative case, and singular (which is 0-marked) or plural.
 
 ## Noun Classes
@@ -24,7 +26,7 @@ Class III nouns are those which end in /e/ or any clustered sound -- a consonant
 
 ### Accusative Case
 
-In the accusative case, the final consonant sound is strengthened (if possible), and if the word does not end in a vowel /-o/ is added to the end of the word. From the examples above:
+In the accusative case, the final consonant sound is strengthened (becoming more closed if possible, and gaining voicing if not), and if the word does not end in a vowel /-o/ is added to the end of the word. From the examples above:
 
 | Base Word   | Nom. Sing. | Acc. Sing. |
 |:------------|:-----------|:-----------|
@@ -60,7 +62,7 @@ Class II plurals are formed by suffixing /r/ to the stem in nominative or /ro/ i
 
 Class III plurals are formed by devoicing the final vowels or consonants and prefixing /ne/ in the nominative or /er/ in the accusative.
 
-```
+```txt
 Base Word   | Nominative       || Accusative       |
             | Sing.  | Plural  || Sing.  | Plural  |
 ====================================================
@@ -72,9 +74,9 @@ nana        | nan    | nanar   || nana   | nanaro  |
 kallo       | kall   | kallor  || kalto  | kalloro |
 arda        | ard    | ardar   || arda   | ardaro  |
 ====================================================
-huo         | huong  | nehu    || kuo    | erhu   |
-are         | aren   | near    || ade    | erar   |
-lempe       | lempem | nelemp  || lembe  | erlemp |
+huo         | huong  | nehu    || kuo    | erhu    |
+are         | aren   | near    || ade    | erar    |
+lempe       | lempem | nelemp  || lembe  | erlemp  |
 ```
 
 ## Articles
@@ -103,11 +105,11 @@ The conjunct article is /er/ in the nominative and /der/ in the accusative. The 
 
 ### Article Table
 
-```
+```txt
 Article     | Nominative || Accusative |
 ========================================
 DEFINITE    | il         || ilo        |
-INDEFINITE  | e                        |
+INDEFINITE  |            e             |
 CONJUNCT    | er         || der        |
 ```
 
@@ -130,14 +132,14 @@ Datives take on the nasal nearest to the word coda, in class II they also take t
 
 The first Genitive is used as the subject of a genitive relationship, in general this means the possessor, owner, or origin of something in a genitive relationship. When paired with a standard nominative noun, the _genitive n_ indicates an indirect subject referenced by relation to its reference.
 
-The _Genitive N_ replaces the normal marking of a nominative singular, if it has marking, with a suffix of **-(o)no**, and maintains the number marking. Plurals for class I and II retain their plural marking, and only add **-on** as a suffix. Class III plurals, preserve the prefix _ne-_, but still remove the final coda of the word.
+The _Genitive N_ replaces the normal marking of a nominative singular, if it has marking, with a suffix of **-(o)no**, and maintains the number marking. Plurals for class I and II retain their plural marking, and only add **-on** as a suffix. Class III plurals preserve the prefix _ne-_, but still remove the final coda of the word.
 
-| GENITIVE N  | Class I | Class II | Class III |
-|:--------:|:----------:|:--------:|:---------:|
-| Singular | -ono       | -no      | -ono      |
-| Plural   | -ion       | -ron     | ne-\*-ono |
+| GENITIVE N  | Class I    | Class II | Class III |
+|:-----------:|:----------:|:--------:|:---------:|
+| Singular    | -ono       | -no      | -ono      |
+| Plural      | -ion       | -ron     | ne-\*-ono |
 
-```
+```txt
 Base Word   | Genitive N             |
             | Singular  | Plural     |
 ======================================
@@ -152,4 +154,32 @@ arda        | ardano    | ardaron    |
 huo         | huo'ono   | nehu'ono   |
 are         | are'ono   | nearono    |
 lempe       | lempe'ono | nelempono  |
+```
+
+### Genitive A (Accusative)
+
+The second Genitive, called Genitive A, refers to the quality, object, or identity of somehting in a genitive relationship. Genitiva A occurs only in accusative cases, and is applied to the actual referenced object in a clause, not to the elements it referred to by relation of.
+
+The _Genitive A_ is marked by prefixing a front vowel sound (a, e, or i) based on the class of the noun.
+
+| GENITIVE A  | Class I    | Class II   | Class III |
+|:-----------:|:----------:|:----------:|:---------:|
+| Singular    | i-\*-ora   | a-\*-ri    | e-\*-(N)  |
+| Plural      | i-\*-eta   | a-\*-y(V)n | e-\*-(V)  |
+
+```txt
+Base Word   | Genitive A             |
+            | Singular  | Plural     |
+======================================
+kil         | ikilora   | ikileta    |
+seler       | iselerora | iselereta  |
+toron       | itoronora | itoroneta  |
+======================================
+nana        | ananari   | ananyan    |
+kallo       | akallori  | akallyon   |
+arda        | ärdari    | ärdyan     |
+======================================
+huo         | ehuon     | ehuö       |
+are         | e'aren    | e'arë      |
+lempe       | elempem   | elempë     |
 ```
