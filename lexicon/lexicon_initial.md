@@ -1,66 +1,31 @@
 ## Family
 
-- **mother**: _nana_ (noun II) - nan, nano
-  - nominative: nan, nanar
-  - accusative: nanar, nanaro
-  - dative: nananto, nanarent
-  - genitive n: nanano, nanaron
-  - genitive a: ananari, ananyan
-- **father**: _atan_ (noun I) - atan, atano
-  - nominative: atan, atani
-  - accusative: atano, atanen
-  - dative: atanna, atanina
-  - genitive n: atanono, atanion
-  - genitive a: i'atanora, i'ataneta
-- **brother**: _toron_ (noun I) - toron, torono
-  - nominative: toron, toroni
-  - accusative: torono, toronen
-  - dative: toronna, toronina
-  - genitive n: toronono, toronion
-  - genitive a: itoronora, itoroneta
-- **sister**: _seler_ (noun I) - seler, seledo
-  - nominative: seler, seleri
-  - accusative: selero, seleren
-  - dative: selenna, selenina
-  - genitive n: selerono, selerion
-  - genitive a: iselerora, iselereta
-- **daughter**: _yende_ (noun III) - yenden, yendeno
-  - nominative: yenden, neyente
-  - accusative: yende, yenter
-  - dative: yendanu, yendaxum
-  - genitive n: yendeno, neyendono
-  - genitive a: eyenden, eyendë
-- **son**: _yondo_ (noun II) - yond, yondo
-  - nominative: yond, yondi
-  - accusative: yondo, yondoro
-  - dative: yondo, yondorend
-  - genitive n: yondono, yondoron
-  - genitive a: ayondori, ayondyon
-- **nephew, grandson**: _yonondo_ (noun II) - yonond, yonondo
-  - nominative: yonond, yonondi
-  - accusative: yonondo, yonondoro
-  - dative: yonondo, yonondorend
-  - genitive n: yonondono, yonondoron
-  - genitive a: ayonondori, ayonondyon
+- **mother**: _[nana](lexicon/lex/n/nana.md)_ (noun II) - nan, nano
+- **father**: _[atan](lexicon/lex/a/atan.md)_ (noun I) - atan, atano
+- **brother**: _[toron](lexicon/lex/t/toron.md)_ (noun I) - toron, torono
+- **sister**: _[seler](lexicon/lex/s/seler.md)_ (noun I) - seler, seledo
+- **daughter**: _[yende](lexicon/lex/y/yende.md)_ (noun III) - yenden, yendeno
+- **son**: _[yondo](lexicon/lex/y/yondo.md)_ (noun II) - yond, yondo
+- **nephew, grandson**: _[yonondo](lexicon/lex/y/yonondo.md)_ (noun II) - yonond, yonondo
 
 ## People
 
-- **person**: _kil_ (noun I) - kil, kito
-- **man, hero**: _kallo_ (noun II) - kall, kalto
-- **man, male**: _der_ (noun I) - der, dedo
-- **woman, queen**: _nisse_ (noun III) - nissen, nizze
+- **person**: _[kil](lexicon/lex/k/kil.md)_ (noun I) - kil, kito
+- **man, hero**: _[kallo](lexicon/lex/k/kallo.md)_ (noun II) - kall, kalto
+- **man, male**: _[der](lexicon/lex/d/der.md)_ (noun I) - der, dedo
+- **woman, queen**: _[nisse](lexicon/lex/n/nisse.md)_ (noun III) - nissen, nizze
 
 ## Pronouns
 
-- **I, me**: _ni_
-- **you, sing.**: _de_
-- **we**: _elme_
-- **you, pl.**: _de_
-- **oneself**: _na_
-- **what**: _man_
-- **who**: _ma_
-- **and; any**: _a_
-- **not**: _il_
+- **I, me**: _[ni](lexicon/lex/n/ni.md)_
+- **you, sing.**: _[de](lexicon/lex/d/de.md)_
+- **we**: _[elme](lexicon/lex/e/elme.md)_
+- **you, pl.**: _[de](lexicon/lex/d/de.md)_
+- **oneself**: _[na](lexicon/lex/n/na.md)_
+- **what**: _[man](lexicon/lex/m/man.md)_
+- **who**: _[ma](lexicon/lex/m/ma.md)_
+- **and; any**: _[a](lexicon/lex/a/a.md)_
+- **not**: _[il](lexicon/lex/i/il)_
 
 ## Numbers
 

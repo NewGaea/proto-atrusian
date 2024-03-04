@@ -22,7 +22,7 @@ Class II nouns are those which end in any single vowel except /e/. All nouns whi
 
 Class III nouns are those which end in /e/ or any clustered sound -- a consonant cluster or a diphthong. The nominative singular case of Class III nouns is formed by adding the nasal /m/, /n/, or /ng/, nearest to the place of articulation of the final consonant. If necessary, this nasal is appended as a syllabic nasal.
 
-**Examples:** _huo_, _are_, and _lempe_ are all Class III nouns. They add a nasal to the ends, becoming _huong_, _aren_, and _lempem_ in their nominative singular forms.
+**Examples:** _huo_, _are_, and _lempe_ are all Class III nouns. They add a nasal to the end, becoming _huong_, _aren_, and _lempem_ in their nominative singular forms.
 
 ### Accusative Case
 
@@ -30,20 +30,20 @@ In the accusative case, the final consonant sound is strengthened (becoming more
 
 | Base Word   | Nom. Sing. | Acc. Sing. |
 |:------------|:-----------|:-----------|
-| kil         | kil        | kito       |
-| seler       | seler      | seledo     |
-| toron       | toron      | torono     |
-| nana        | nan        | nana       |
-| kallo       | kall       | kalto      |
-| arda        | ard        | arda       |
-| huo         | huong      | kuo        |
-| are         | aren       | ade        |
-| lempe       | lempem     | lembe      |
+| [kil](lexicon/lex/k/kil.md)         | kil        | kito       |
+| [seler](lexicon/lex/s/seler.md)       | seler      | seledo     |
+| [toron](lexicon/lex/t/toron.md)       | toron      | torono     |
+| [nana](lexicon/lex/n/nana.md)        | nan        | nana       |
+| [kallo](lexicon/lex/k/kallo.md)       | kall       | kalto      |
+| [arda](lexicon/lex/a/arda.md)        | ard        | arda       |
+| [huo](lexicon/lex/h/huo.md)         | huong      | kuo        |
+| [are](lexicon/lex/a/are.md)         | aren       | ade        |
+| [lempe](lexicon/lex/l/lempe)       | lempem     | lembe      |
 
 Normally, the strengthening process will result in voiceless consonants beoming their voiced counterpart, however /r/ becomes /d/, /l/ becomes /t/, and /h/ becomes /k/. Likewise, voiced fricatives will move up to a stronger manner of articulation -- /v/ becomes /b/, /dh/ and /z/ both become /d/, etc.
 
 + Voiceless consonants become voiced (ptk > bdg, fs(th) > vz(dh))
-+ Voice fricatives and all liquids becomes stops (vz(dh) > bdd, lrh > tdk)
++ Voiced fricatives and all liquids becomes stops (vz(dh) > bdd, lrh > tdk)
 + w > v, q > gv
 
 ### Plural Number
@@ -119,9 +119,9 @@ While the primary cases in Proto-Atrusian are the nominative and accusative, the
 
 ### Dative (Accusative)
 
-Within Proto-Atrusian, the Dative is used to refer to direct objects, and contrasts with the accusative which may be used for direct or indirect objects. It patterns as an accusative, and is used _only_ when there is more than one (non-conjunct) accusative.
+Within Proto-Atrusian, the Dative is used to refer to direct objects only, and contrasts with the accusative which may be used for direct or indirect objects. It patterns as an accusative, and is used _only_ when there is more than one (non-conjunct) accusative.
 
-Datives take on the nasal nearest to the word coda, in class II they also take the stop nearest to that nasal.
+Datives take on the nasal nearest to the word coda, in class II they also take the voiceless stop nearest to that nasal.
 
 | DATIVES  | Class I  | Class II  | Class III |
 |:--------:|:--------:|:---------:|:---------:|
@@ -158,7 +158,7 @@ lempe       | lempe'ono | nelempono  |
 
 ### Genitive A (Accusative)
 
-The second Genitive, called Genitive A, refers to the quality, object, or identity of somehting in a genitive relationship. Genitiva A occurs only in accusative cases, and is applied to the actual referenced object in a clause, not to the elements it referred to by relation of.
+The second Genitive, called Genitive A, refers to the quality, object, or identity of something in a genitive relationship. Genitive A occurs only in accusative cases, and is applied to the actual referenced object in a clause, not to the elements it referred to by relation of.
 
 The _Genitive A_ is marked by prefixing a front vowel sound (a, e, or i) based on the class of the noun.
 

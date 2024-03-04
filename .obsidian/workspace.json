@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "4b510bda51adf554",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ce453d8b508f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b6624a9082ff95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/peratan-babel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51d9aaf17ad45273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/peratan/vind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "505a8bc29f65f00e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/peratan/ishtard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9e3cc0163579e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/peratan/tunk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b86cc1d5bcdab3dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580191f6b2c9fffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/future-targets/lexicon-peratan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "099da0986c658a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc7e9a5b3499cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6faac222ef4c059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04da23677ef1e1fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05f7ef781def60fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "654840ec1a2d0d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "544097179d9f77f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a323a291d8a020b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archive/peratan/vind.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "913b870c5d67a426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archive/peratan/vind.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7356eca12b307003",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8eef30d96293e456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archive/peratan/vind.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "712dae8c6981efad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c51fbdab85a4048",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "51d9aaf17ad45273",
+  "lastOpenFiles": [
+    "lexicon/future-targets/proto-atrusian-language-family.canvas",
+    "archive/peratan/vind.md",
+    "lexicon/future-targets/lexicon-peratan.md",
+    "archive/peratan/ash.md",
+    "archive/peratan/an.md",
+    "archive/peratan/isht.md",
+    "archive/peratan/en.md",
+    "archive/peratan/des.md",
+    "archive/peratan/ishtard.md",
+    "archive/peratan/lengu.md",
+    "archive/peratan/mev.md",
+    "archive/peratan/no.md",
+    "archive/peratan/o.md",
+    "archive/peratan/pip.md",
+    "archive/peratan/tel.md",
+    "archive/peratan-babel.md",
+    "archive/peratan/tunk.md",
+    "lexicon/lexicon_initial.md",
+    "archive/peratan/war.md",
+    "lexicon/lex/a/atan.md",
+    "archive/semeric-old.md",
+    "archive/orkish-old.md",
+    "archive/semeric",
+    "archive/peratan",
+    "archive/orkish",
+    "archive/angarul",
+    "lexicon/future-targets/lexicon-semerikän.md",
+    "archive/angarul-old.md",
+    "lexicon/future-targets/languages/ancient-angarul.md",
+    "lexicon/future-targets/languages/ancient-yeshilderya.md",
+    "archive",
+    "lexicon/future-targets/languages",
+    "lexicon/lex/i",
+    "lexicon/lex/e",
+    "lexicon/lex/d",
+    "lexicon/lex/k"
+  ]
+}

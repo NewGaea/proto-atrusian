@@ -1,0 +1,15 @@
+# Angarul (Elvish) Target Lexicon
+
+1. **"are you thinking"** 1. (_expression_) azhamir (att. 2005-Dec-22)
+2. **to bear, carry, hold** 1. (_verb_) col- (att. 2005-Dec-22)
+3. **bearer** 1. (_noun_) colindor (att. 2005-Dec-22)
+4. **dragon** 1. (_noun_) berlog (att. 2005-Dec-22)
+5. **friend** 1. (_noun_) der (att. 2005-Dec-22)
+6. **to hunt** 1. (_verb_) faros (att. 2005-Dec-22)
+7. **leaf** 1. (_noun_) ras (att. 2005-Dec-22)
+8. **of, from** 1. (_conjunction_) -o (att. 2005-Dec-22)
+9. **power** 1. (_noun_) fal (att. 2005-Dec-22)
+10. **silver** 1. (_noun, adjective_) delfë (att. 2005-Dec-22)
+11. **sword** 1. (_noun_) majil (att. 2005-Dec-22)
+12. **to think** 1. (_verb_) zhami (att. 2005-Dec-22)
+13. **word** 1. (_noun_) beth (att. 2005-Dec-22)

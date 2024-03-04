@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"ae981ee790b58bd9","x":20,"y":160,"width":450,"height":220,"type":"file","file":"lexicon/future-targets/languages/proto-peratan.md"},
+		{"id":"eacdfe7bc705fca7","type":"file","file":"lexicon/future-targets/languages/proto-semeric.md","x":390,"y":-500,"width":450,"height":240},
+		{"id":"0a3880099af2a8ee","type":"file","file":"lexicon/future-targets/languages/proto-atrusian.md","x":-815,"y":-780,"width":451,"height":340},
+		{"id":"c4b11e16f1988947","type":"file","file":"lexicon/future-targets/languages/proto-kenyu.md","x":-814,"y":-400,"width":450,"height":320},
+		{"id":"7fcde882b8626747","x":390,"y":-219,"width":450,"height":359,"type":"file","file":"lexicon/future-targets/languages/ancient-semeric.md"},
+		{"id":"c54f9c65cc50d6a8","x":-1820,"y":-159,"width":450,"height":559,"type":"file","file":"lexicon/future-targets/languages/proto-orkish.md"},
+		{"id":"fc5a2af6b927a21e","x":-1340,"y":-219,"width":450,"height":719,"type":"file","file":"lexicon/future-targets/languages/ancient-yeshilderya.md"},
+		{"id":"d4f4e6faf4862de9","x":-814,"y":-39,"width":450,"height":270,"type":"file","file":"lexicon/future-targets/languages/ancient-kenyu.md"},
+		{"id":"c606a684ebabf267","x":-320,"y":-120,"width":450,"height":320,"type":"file","file":"lexicon/future-targets/languages/ancient-angarul.md"}
+	],
+	"edges":[
+		{"id":"24a950ef6b287690","fromNode":"0a3880099af2a8ee","fromSide":"bottom","toNode":"c4b11e16f1988947","toSide":"top"},
+		{"id":"ff388b3b6863cfe3","fromNode":"0a3880099af2a8ee","fromSide":"right","toNode":"eacdfe7bc705fca7","toSide":"top"},
+		{"id":"feb7bd3ed76ec339","fromNode":"c4b11e16f1988947","fromSide":"left","toNode":"c54f9c65cc50d6a8","toSide":"top"},
+		{"id":"f482be76f98777ab","fromNode":"c4b11e16f1988947","fromSide":"right","toNode":"c606a684ebabf267","toSide":"top"},
+		{"id":"fd3668a2da1db014","fromNode":"c606a684ebabf267","fromSide":"right","toNode":"ae981ee790b58bd9","toSide":"top"},
+		{"id":"22c16805fd2b7bc6","fromNode":"eacdfe7bc705fca7","fromSide":"bottom","toNode":"7fcde882b8626747","toSide":"top"},
+		{"id":"601d3cd680175cb7","fromNode":"7fcde882b8626747","fromSide":"left","toNode":"ae981ee790b58bd9","toSide":"top"},
+		{"id":"622b722e3c08f34c","fromNode":"c4b11e16f1988947","fromSide":"left","toNode":"fc5a2af6b927a21e","toSide":"top"},
+		{"id":"79c8e39eb109330e","fromNode":"c4b11e16f1988947","fromSide":"bottom","toNode":"d4f4e6faf4862de9","toSide":"top"}
+	]
+}
