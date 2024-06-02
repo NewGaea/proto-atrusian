@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/peratan-babel.md",
+                "file": "archive/peratan/lexicon-names.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/peratan/vind.md",
+                "file": "lexicon/lexicon_initial.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d9e3cc0163579e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/peratan/tunk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b86cc1d5bcdab3dd",
@@ -69,6 +56,18 @@
               "type": "markdown",
               "state": {
                 "file": "lexicon/future-targets/lexicon-peratan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9e3cc0163579e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/peratan/tunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/peratan/vind.md",
+                "file": "archive/peratan/lexicon-names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive/peratan/vind.md",
+                "file": "archive/peratan/lexicon-names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive/peratan/vind.md"
+                "file": "archive/peratan/lexicon-names.md"
               }
             }
           }
@@ -214,38 +213,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51d9aaf17ad45273",
+  "active": "c6faac222ef4c059",
   "lastOpenFiles": [
-    "lexicon/future-targets/proto-atrusian-language-family.canvas",
-    "archive/peratan/vind.md",
-    "lexicon/future-targets/lexicon-peratan.md",
-    "archive/peratan/ash.md",
-    "archive/peratan/an.md",
-    "archive/peratan/isht.md",
-    "archive/peratan/en.md",
-    "archive/peratan/des.md",
+    "grammar/noun-complex.md",
+    "archive/peratan/lexicon-names.md",
+    "archive/angarul-old.md",
+    "archive/peratan-babel.md",
+    "lexicon/lexicon_initial.md",
     "archive/peratan/ishtard.md",
+    "lexicon/lexicon-main.md",
+    "lexicon/future-targets/lexicon-angarul.md",
+    "archive/peratan/sefanah.md",
     "archive/peratan/lengu.md",
+    "archive/peratan/au.md",
+    "archive/peratan/ard.md",
+    "lexicon/future-targets/lexicon-peratan.md",
+    "archive/peratan/tunk.md",
+    "archive/peratan/ash.md",
+    "archive/peratan/isht.md",
     "archive/peratan/mev.md",
     "archive/peratan/no.md",
     "archive/peratan/o.md",
     "archive/peratan/pip.md",
     "archive/peratan/tel.md",
-    "archive/peratan-babel.md",
-    "archive/peratan/tunk.md",
-    "lexicon/lexicon_initial.md",
     "archive/peratan/war.md",
-    "lexicon/lex/a/atan.md",
-    "archive/semeric-old.md",
-    "archive/orkish-old.md",
+    "archive/peratan/vind.md",
+    "lexicon/future-targets/proto-atrusian-language-family.canvas",
+    "archive/peratan/an.md",
+    "archive/peratan/en.md",
+    "archive/peratan/des.md",
     "archive/semeric",
     "archive/peratan",
     "archive/orkish",
     "archive/angarul",
-    "lexicon/future-targets/lexicon-semerikän.md",
-    "archive/angarul-old.md",
-    "lexicon/future-targets/languages/ancient-angarul.md",
-    "lexicon/future-targets/languages/ancient-yeshilderya.md",
     "archive",
     "lexicon/future-targets/languages",
     "lexicon/lex/i",

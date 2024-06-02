@@ -6,7 +6,7 @@ tags:
   - verb
 ---
 
-# war
+# vind
 
 - **Grammatical Classification**: Verb
 - **Etymology:** Unknown path
